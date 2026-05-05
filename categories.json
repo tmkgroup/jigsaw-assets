@@ -1,0 +1,7 @@
+{
+  "animal": { "title_vi": "Động vật",   "title_en": "Animals" },
+  "art":    { "title_vi": "Nghệ thuật", "title_en": "Art" },
+  "food":   { "title_vi": "Ẩm thực",    "title_en": "Food" },
+  "nature": { "title_vi": "Thiên nhiên","title_en": "Nature" },
+  "travel": { "title_vi": "Du lịch",    "title_en": "Travel" }
+}
