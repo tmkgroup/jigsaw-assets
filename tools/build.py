@@ -83,7 +83,7 @@ def main():
         if gen_count:
             print(f"{slug}: {gen_count} thumb(s) generated")
         else:
-            print(f"{slug}: {len(ids)} image(s) — thumbs up to date")
+            print(f"{slug}: {len(ids)} image(s) - thumbs up to date")
 
         categories.append({
             "slug":     slug,
@@ -101,7 +101,7 @@ def main():
     if not DRY_RUN:
         with open(MANIFEST_OUT, "w", encoding="utf-8") as f:
             json.dump(manifest, f, ensure_ascii=False, indent=2)
-        print(f"manifest.json written — {total_orig} image(s) across {len(categories)} categories")
+        print(f"manifest.json written - {total_orig} image(s) across {len(categories)} categories")
     else:
         print("[dry-run] manifest not written:")
         print(json.dumps(manifest, ensure_ascii=False, indent=2))
