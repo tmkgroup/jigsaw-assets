@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-05-05T12:26:45Z",
+  "categories": [
+    {
+      "slug": "animal",
+      "title_vi": "Động vật",
+      "title_en": "Animals",
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "slug": "art",
+      "title_vi": "Nghệ thuật",
+      "title_en": "Art",
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "slug": "food",
+      "title_vi": "Ẩm thực",
+      "title_en": "Food",
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "slug": "nature",
+      "title_vi": "Thiên nhiên",
+      "title_en": "Nature",
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "slug": "travel",
+      "title_vi": "Du lịch",
+      "title_en": "Travel",
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ]
+}
